@@ -13,7 +13,7 @@ Este repositorio es parte de la serie de video tutoriales del clon de Reddit usa
 - 04 / Configurando la BD, creando primer migración y modelo
 - ... en desarrollo
 
-# Acerca del Autor
+## Acerca del Autor
 
 Hola, mi nombre es German Popoter y soy un Ingeniero Telemático con un Máster en Ingeniería de Software. Mi meta con estos videos es poder enseñar a la mayor cantidad de personas posibles a crear aplicaciones web atravez del ejemplo.
 
@@ -37,9 +37,7 @@ This repository is the code generated in the video tutorial series where I creat
 - 04 / Configuring the DB and creating the first migration and model
 - ... under development
 
---- 
-
-# About the Author
+## About the Author
 
 Hi, my name is German Popoter, I hold a Bachelor degree in Telematic Engineering and a Masters in Software Engineering. My goal with this video tutorials is try to teach as much people as possible on how to build and create web apps through example.
 
