@@ -10,7 +10,8 @@ Este repositorio es parte de la serie de video tutoriales del clon de Reddit usa
 - [01 / Instalación de Composer y Laravel](https://www.youtube.com/watch?v=LQdGfYYOlLk)
 - [02 / Introducción a Rutas (Routes) y Controladores](https://www.youtube.com/watch?v=lPJEps_cz2M)
 - [03 / Vistas y creando controller de publicaciones](https://www.youtube.com/watch?v=j361I__Z9Ew)
-- 04 / Configurando la BD, creando primer migración y modelo
+- [04 / Configurando la BD, creando primer migración y modelo](https://www.youtube.com/watch?v=kAfhQifkpuc)
+- [05 / Mostrando publicaciones desde la BD](https://www.youtube.com/watch?v=3inCf-wKJUI)
 - ... en desarrollo
 
 ## Acerca del Autor
@@ -32,7 +33,8 @@ This repository is the code generated in the video tutorial series where I creat
 - [01 / Installing Composer and Laravel](https://www.youtube.com/watch?v=LQdGfYYOlLk)
 - [02 / Introduction to Routes and Controllers](https://www.youtube.com/watch?v=lPJEps_cz2M)
 - [03 / Views and creating the PostsController](https://www.youtube.com/watch?v=j361I__Z9Ew)
-- 04 / Configuring the DB and creating the first migration and model
+- [04 / Configuring the DB and creating the first migration and model](https://www.youtube.com/watch?v=kAfhQifkpuc)
+- [05 / Listing Posts from the DB](https://www.youtube.com/watch?v=3inCf-wKJUI)
 - ... under development
 
 ## About the Author
