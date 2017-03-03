@@ -10,7 +10,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Reditt Clone New Title</h1>
+                <h1>Reditt Clone</h1>
             </div>
         </div>
         <hr>
