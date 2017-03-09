@@ -10,11 +10,20 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Reditt Clone</h1>
+                <h1>
+                    Reditt Clone
+                    <small class="pull-right">
+                        <a href="{{ route('create_post_path') }}">Create Post</a>
+                    </small>
+                </h1>
             </div>
         </div>
         <hr>
         
+        @include('layouts._errors')
+
+        @include('layouts._messages')
+
         @yield('content')
 
     </div>
