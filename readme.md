@@ -14,7 +14,7 @@ Este repositorio es parte de la serie de video tutoriales del clon de Reddit usa
 - [05 / Mostrando publicaciones desde la BD](https://www.youtube.com/watch?v=3inCf-wKJUI)
 - [06 / Peticiones (Request), FormRequest y Creando Publicaciones](https://www.youtube.com/watch?v=rlz8CR7jUAQ)
 - [07 / Fabrica de Modelos (Model Factory) y Paginación](https://www.youtube.com/watch?v=rodRr8Df4kM)
-- 08 / Actualizado y Borrado de Publicaciones
+- [08 / Actualizado y Borrado de Publicaciones](https://www.youtube.com/watch?v=S2CXFlk6w_o)
 - 09 / Vistas Parciales y Mensajes al realizar acciones.
 - ... en desarrollo
 
@@ -41,7 +41,7 @@ This repository is the code generated in the video tutorial series where I creat
 - [05 / Listing Posts from the DB](https://www.youtube.com/watch?v=3inCf-wKJUI)
 - [06 / Requests, FormRequest and Creating Posts](https://www.youtube.com/watch?v=rlz8CR7jUAQ)
 - [07 / Model Factory and Pagination](https://www.youtube.com/watch?v=rodRr8Df4kM)
-- 08 / Updating and Deleting Posts
+- [08 / Updating and Deleting Posts](https://www.youtube.com/watch?v=S2CXFlk6w_o)
 - 09 / View Partials and Success Messages
 - ... under development
 
