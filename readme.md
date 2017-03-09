@@ -12,6 +12,10 @@ Este repositorio es parte de la serie de video tutoriales del clon de Reddit usa
 - [03 / Vistas y creando controller de publicaciones](https://www.youtube.com/watch?v=j361I__Z9Ew)
 - [04 / Configurando la BD, creando primer migración y modelo](https://www.youtube.com/watch?v=kAfhQifkpuc)
 - [05 / Mostrando publicaciones desde la BD](https://www.youtube.com/watch?v=3inCf-wKJUI)
+- [06 / Peticiones (Request), FormRequest y Creando Publicaciones](https://www.youtube.com/watch?v=rlz8CR7jUAQ)
+- [07 / Fabrica de Modelos (Model Factory) y Paginación](https://www.youtube.com/watch?v=rodRr8Df4kM)
+- 08 / Actualizado y Borrado de Publicaciones
+- 09 / Vistas Parciales y Mensajes al realizar acciones.
 - ... en desarrollo
 
 ## Acerca del Autor
@@ -35,6 +39,10 @@ This repository is the code generated in the video tutorial series where I creat
 - [03 / Views and creating the PostsController](https://www.youtube.com/watch?v=j361I__Z9Ew)
 - [04 / Configuring the DB and creating the first migration and model](https://www.youtube.com/watch?v=kAfhQifkpuc)
 - [05 / Listing Posts from the DB](https://www.youtube.com/watch?v=3inCf-wKJUI)
+- [06 / Requests, FormRequest and Creating Posts](https://www.youtube.com/watch?v=rlz8CR7jUAQ)
+- [07 / Model Factory and Pagination](https://www.youtube.com/watch?v=rodRr8Df4kM)
+- 08 / Updating and Deleting Posts
+- 09 / View Partials and Success Messages
 - ... under development
 
 ## About the Author
