@@ -29,9 +29,12 @@ class PostsController extends Controller
 
     public function store(CreatePostRequest $request)
     {
-        $post = Post::create(
+        $post = new Post;
+        $post->fill(
             $request->only('title', 'description', 'url')
         );
+        $post->user_id = $request->user()->id;
+        $post->save();
 
         session()->flash('message', 'Post Created!');
 
@@ -40,6 +43,10 @@ class PostsController extends Controller
 
     public function edit(Post $post)
     {
+        if($post->user_id != \Auth::user()->id) {
+            return redirect()->route('posts_path');
+        }
+        
         return view('posts.edit')->with(['post' => $post]);
     }
 
@@ -56,6 +63,10 @@ class PostsController extends Controller
 
     public function delete(Post $post)
     {
+        if($post->user_id != \Auth::user()->id) {
+            return redirect()->route('posts_path');
+        }
+
         $post->delete();
 
         session()->flash('message', 'Post Deleted!');
