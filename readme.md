@@ -15,7 +15,10 @@ Este repositorio es parte de la serie de video tutoriales del clon de Reddit usa
 - [06 / Peticiones (Request), FormRequest y Creando Publicaciones](https://www.youtube.com/watch?v=rlz8CR7jUAQ)
 - [07 / Fabrica de Modelos (Model Factory) y Paginación](https://www.youtube.com/watch?v=rodRr8Df4kM)
 - [08 / Actualizado y Borrado de Publicaciones](https://www.youtube.com/watch?v=S2CXFlk6w_o)
-- 09 / Vistas Parciales y Mensajes al realizar acciones.
+- [09 / Vistas Parciales y Mensajes al realizar acciones.](https://www.youtube.com/watch?v=wmD9LsDR6Cg)
+- [10 / Autenticación de Usuario](https://www.youtube.com/watch?v=_blNwZTQ-cY&t=2s)
+- [11 / Relación entre Usuarios y Publicaciones ](https://www.youtube.com/watch?v=rjCXjNj_YGk)
+- 12 / Escribiendo los primeros Tests
 - ... en desarrollo
 
 ## Acerca del Autor
@@ -42,7 +45,10 @@ This repository is the code generated in the video tutorial series where I creat
 - [06 / Requests, FormRequest and Creating Posts](https://www.youtube.com/watch?v=rlz8CR7jUAQ)
 - [07 / Model Factory and Pagination](https://www.youtube.com/watch?v=rodRr8Df4kM)
 - [08 / Updating and Deleting Posts](https://www.youtube.com/watch?v=S2CXFlk6w_o)
-- 09 / View Partials and Success Messages
+- [09 / View Partials and Success Messages](https://www.youtube.com/watch?v=wmD9LsDR6Cg)
+- [10 / User Authentication](https://www.youtube.com/watch?v=_blNwZTQ-cY&t=2s)
+- [11 / Users and Posts relation ](https://www.youtube.com/watch?v=rjCXjNj_YGk)
+- 12 / Writting the first tests
 - ... under development
 
 ## About the Author
