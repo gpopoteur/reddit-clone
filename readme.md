@@ -18,7 +18,10 @@ Este repositorio es parte de la serie de video tutoriales del clon de Reddit usa
 - [09 / Vistas Parciales y Mensajes al realizar acciones.](https://www.youtube.com/watch?v=wmD9LsDR6Cg)
 - [10 / Autenticación de Usuario](https://www.youtube.com/watch?v=_blNwZTQ-cY&t=2s)
 - [11 / Relación entre Usuarios y Publicaciones ](https://www.youtube.com/watch?v=rjCXjNj_YGk)
-- 12 / Escribiendo los primeros Tests
+- [12 / Escribiendo los primeros Tests](https://www.youtube.com/watch?v=-Ni5z411fK4)
+- [13 / TDD y Refactoring de Código](https://www.youtube.com/watch?v=ps-1HoWNKf8)
+- [14 / Solucionando el problema Query N+1 y escribiendo más Tests](https://www.youtube.com/watch?v=uMpmg04tGL0)
+- [15 / Configurando MySQL](https://www.youtube.com/watch?v=s41qDXQFXY8)
 - ... en desarrollo
 
 ## Acerca del Autor
@@ -48,7 +51,10 @@ This repository is the code generated in the video tutorial series where I creat
 - [09 / View Partials and Success Messages](https://www.youtube.com/watch?v=wmD9LsDR6Cg)
 - [10 / User Authentication](https://www.youtube.com/watch?v=_blNwZTQ-cY&t=2s)
 - [11 / Users and Posts relation ](https://www.youtube.com/watch?v=rjCXjNj_YGk)
-- 12 / Writting the first tests
+- [12 / Writting the first tests](https://www.youtube.com/watch?v=-Ni5z411fK4)
+- [13 / TDD and code refactoring](https://www.youtube.com/watch?v=ps-1HoWNKf8)
+- [14 / Solving the N+1 query problem and writing more tests](https://www.youtube.com/watch?v=uMpmg04tGL0)
+- [15 / MySQL configuration](https://www.youtube.com/watch?v=s41qDXQFXY8)
 - ... under development
 
 ## About the Author
