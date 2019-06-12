@@ -18,6 +18,11 @@ class Post extends Model {
         return $this->belongsTo(User::class);
     }
 
+    public function comments()
+    {
+        return $this->hasMany(Comment::class);
+    }
+
     public function wasCreatedBy($user)
     {
         if( is_null($user) ) {

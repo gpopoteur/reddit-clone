@@ -18,6 +18,10 @@ class PostsController extends Controller
 
     public function show(Post $post)
     {
+        $post->load(['comments' => function($query) {
+            $query->orderBy('id', 'desc');
+        }, 'comments.user']);
+
         return view('posts.show')->with(['post' => $post]);
     }
 
